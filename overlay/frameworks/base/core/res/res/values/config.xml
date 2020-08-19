@@ -167,4 +167,7 @@
 
     <!-- Whether the device has outdated qti-telephony-common.jar -->
     <bool name="config_oldQtiTelephony">false</bool>
+
+    <!-- True if your device have home button and want to use it as wake button-->
+    <bool name="config_enableHomeButtonWake">true</bool>
 </resources>
